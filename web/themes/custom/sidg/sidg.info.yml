@@ -1,6 +1,0 @@
-# THEMENAME.info.yml file for Ice Cream example theme.
-name: SIDG
-type: theme
-base theme: classy
-description: 'A theme for futre communities.'
-package: Custom
